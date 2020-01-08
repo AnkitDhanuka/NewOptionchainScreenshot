@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test"
+           tests="52"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="258.006">
+  <properties />
+  
+  
+            <testcase name="addStocks" time="4.323" classname="com.stockMarket.testcases.OptionPage" />
+                <testcase name="addStocks" time="4.024" classname="com.stockMarket.testcases.OptionPage" />
+                <testcase name="addStocks" time="3.767" classname="com.stockMarket.testcases.OptionPage" />
+                <testcase name="addStocks" time="4.362" classname="com.stockMarket.testcases.OptionPage" />
+                <testcase name="addStocks" time="4.016" classname="com.stockMarket.testcases.OptionPage" />
+                <testcase name="addStocks" time="3.873" classname="com.stockMarket.testcases.OptionPage" />
+                <testcase name="addStocks" time="4.320" classname="com.stockMarket.testcases.OptionPage" />
+                <testcase name="addStocks" time="5.841" classname="com.stockMarket.testcases.OptionPage" />
+                <testcase name="addStocks" time="4.468" classname="com.stockMarket.testcases.OptionPage" />
+                <testcase name="addStocks" time="3.926" classname="com.stockMarket.testcases.OptionPage" />
+                <testcase name="addStocks" time="4.163" classname="com.stockMarket.testcases.OptionPage" />
+                <testcase name="addStocks" time="3.877" classname="com.stockMarket.testcases.OptionPage" />
+                <testcase name="addStocks" time="4.411" classname="com.stockMarket.testcases.OptionPage" />
+                <testcase name="addStocks" time="4.234" classname="com.stockMarket.testcases.OptionPage" />
+                <testcase name="addStocks" time="4.044" classname="com.stockMarket.testcases.OptionPage" />
+                <testcase name="addStocks" time="4.170" classname="com.stockMarket.testcases.OptionPage" />
+                <testcase name="addStocks" time="4.283" classname="com.stockMarket.testcases.OptionPage" />
+                <testcase name="addStocks" time="4.077" classname="com.stockMarket.testcases.OptionPage" />
+                <testcase name="addStocks" time="4.075" classname="com.stockMarket.testcases.OptionPage" />
+                <testcase name="addStocks" time="3.990" classname="com.stockMarket.testcases.OptionPage" />
+                <testcase name="addStocks" time="4.025" classname="com.stockMarket.testcases.OptionPage" />
+                <testcase name="addStocks" time="4.896" classname="com.stockMarket.testcases.OptionPage" />
+                <testcase name="addStocks" time="4.572" classname="com.stockMarket.testcases.OptionPage" />
+                <testcase name="addStocks" time="3.801" classname="com.stockMarket.testcases.OptionPage" />
+                <testcase name="addStocks" time="4.086" classname="com.stockMarket.testcases.OptionPage" />
+                <testcase name="addStocks" time="4.585" classname="com.stockMarket.testcases.OptionPage" />
+                <testcase name="addStocks" time="6.657" classname="com.stockMarket.testcases.OptionPage" />
+                <testcase name="addStocks" time="3.956" classname="com.stockMarket.testcases.OptionPage" />
+                <testcase name="addStocks" time="4.006" classname="com.stockMarket.testcases.OptionPage" />
+                <testcase name="addStocks" time="4.578" classname="com.stockMarket.testcases.OptionPage" />
+                <testcase name="addStocks" time="4.487" classname="com.stockMarket.testcases.OptionPage" />
+                <testcase name="addStocks" time="4.221" classname="com.stockMarket.testcases.OptionPage" />
+                <testcase name="addStocks" time="3.867" classname="com.stockMarket.testcases.OptionPage" />
+                <testcase name="addStocks" time="4.284" classname="com.stockMarket.testcases.OptionPage" />
+                <testcase name="addStocks" time="8.914" classname="com.stockMarket.testcases.OptionPage" />
+                <testcase name="addStocks" time="4.230" classname="com.stockMarket.testcases.OptionPage" />
+                <testcase name="addStocks" time="4.052" classname="com.stockMarket.testcases.OptionPage" />
+                <testcase name="addStocks" time="4.976" classname="com.stockMarket.testcases.OptionPage" />
+                <testcase name="addStocks" time="4.219" classname="com.stockMarket.testcases.OptionPage" />
+                <testcase name="addStocks" time="3.922" classname="com.stockMarket.testcases.OptionPage" />
+                <testcase name="addStocks" time="3.927" classname="com.stockMarket.testcases.OptionPage" />
+                <testcase name="addStocks" time="4.018" classname="com.stockMarket.testcases.OptionPage" />
+                <testcase name="addStocks" time="4.719" classname="com.stockMarket.testcases.OptionPage" />
+                <testcase name="optionPageForIndexBANKNIFTY" time="17.835" classname="com.stockMarket.testcases.OptionPage" />
+                <testcase name="addStocks" time="4.243" classname="com.stockMarket.testcases.OptionPage" />
+                <testcase name="addStocks" time="5.002" classname="com.stockMarket.testcases.OptionPage" />
+                <testcase name="optionPageForIndexNifty" time="20.085" classname="com.stockMarket.testcases.OptionPage" />
+                <testcase name="addStocks" time="4.443" classname="com.stockMarket.testcases.OptionPage" />
+                <testcase name="addStocks" time="4.265" classname="com.stockMarket.testcases.OptionPage" />
+                <testcase name="addStocks" time="4.153" classname="com.stockMarket.testcases.OptionPage" />
+                <testcase name="addStocks" time="4.203" classname="com.stockMarket.testcases.OptionPage" />
+                <testcase name="addStocks" time="4.535" classname="com.stockMarket.testcases.OptionPage" />
+      
+</testsuite>

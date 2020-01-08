@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-01-08T04:42:45Z" name="Default suite" finished-at="2020-01-08T04:42:45Z" duration-ms="123">
+    <groups>
+    </groups>
+    <test started-at="2020-01-08T04:42:45Z" name="Default test" finished-at="2020-01-08T04:42:45Z" duration-ms="123">
+      <class name="com.stockMarket.testcases.ToCheckAssert">
+        <test-method signature="assertEquals()[pri:0, instance:com.stockMarket.testcases.ToCheckAssert@3e96bacf]" started-at="2020-01-08T10:12:45Z" name="assertEquals" finished-at="2020-01-08T10:12:45Z" duration-ms="61" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- assertEquals -->
+      </class> <!-- com.stockMarket.testcases.ToCheckAssert -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
